@@ -1,2 +1,2 @@
-# Flitz-o-Maker
+# Flitz-o-Mator
 Created for the DALI Lab API Challenge
